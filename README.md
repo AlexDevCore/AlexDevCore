@@ -48,6 +48,12 @@ Python · FastAPI · Flask · pandas · BeautifulSoup / Scrapy / Selenium · Cla
 
 ## Background
 
-I came to the United States, founded and ran a moving company from nothing — hiring, dispatch, sales, ~200 jobs with 60% of them arriving by referral — before moving into automation full time. That is why I scope work around what a business actually needs rather than what is technically interesting: I have been the person on the other side of the invoice.
+I studied Artificial Intelligence at university in Belarus — machine learning, neural networks, NLP, computer vision — then came to the United States and spent the years since doing work that looks nothing like a straight engineering track, and explains most of how I build now.
+
+I co-founded a digital collectible project at nineteen and wrote its lore and the visual system behind 5,000+ generated characters. I consulted independently on relocation logistics and major purchases — the paperwork-heavy decisions that are cheap to get right and expensive to redo. I founded and ran a moving company from nothing: hiring, dispatch, sales, ~200 jobs with 60% of them arriving by referral. And I invest my own money across six brokerage platforms, which is the entire reason InvestmentsScraper exists — it started as my own reconciliation problem before it was a portfolio piece.
+
+Along the way: 18 countries and 31 US states. One single moving job covered 14,000 miles across 27 states in 23 days, hiring local labor on the road.
+
+The through-line is that I have been the person on the other side of the invoice, and the person whose own numbers turned out to be wrong. That is why I scope work around what a business actually needs rather than what is technically interesting — and why I try to break a result before I hand it to anyone.
 
 Registered vendor on SAM.gov, Cal eProcure, PlanetBids and San Diego County BuyNet.
